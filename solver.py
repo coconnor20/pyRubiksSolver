@@ -120,3 +120,4 @@ def shortest_path(start: rubik.Position, end: rubik.Position,) -> Optional[List[
 
     return path
 
+
